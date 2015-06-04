@@ -1,0 +1,8 @@
+# Make sure that the following APIs are enabled:
+#
+#     Geocoding api
+#     Distance Matrix API
+#
+
+[api]
+api_number=abcd1234abcd1234abcd1234
